@@ -1,4 +1,3 @@
-qrcode 
-gtts
-uuid
 streamlit
+pandas
+supabase
